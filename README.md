@@ -1,4 +1,5 @@
 # bamazon
 
 User-end part of the Bamazon assignment. An amazon-like store front, a CLI(command line interface) application to show our dominance of Inquirer as well as MySql.
-The in
+
+Start - ![Alt text](1.jpg?raw=true "Title")

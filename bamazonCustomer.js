@@ -66,7 +66,7 @@ var purchase = function(prodId) {
 			var desiredAmt = answer.amount;
 			if(desiredAmt > stockQuantity){
 				console.log("Sorry, there are "+stockQuantity+" left :(");
-				purchase();
+				start();
 				if (stockQuantity === 0){
 					console.log("Try another item :)");
 					start();
