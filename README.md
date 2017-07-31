@@ -9,9 +9,9 @@ Start -
 
 Purchase - 
 
-![Alt text](/2.png?raw=true "Title")
+![Alt text](/3.png?raw=true "Title")
 
 
 If more than amount - 
 
-![Alt text](/3.png?raw=true "Title")
+![Alt text](/2.png?raw=true "Title")
